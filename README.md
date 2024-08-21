@@ -9,8 +9,8 @@
 <h2>🚀土豆地址发布页②: <a href="https://tudouvip.cc">tudouvip.cc</a></h2>
   
   <h2>💎💎土豆加速地址页💎💎</h2>
-  <h2>最新更新地址一：🚀 <a href="https://tudoujiasu7.com/">tudoujiasu5.com</a> </h2>
-  <h2>最新更新地址二：🚀 <a href="https://tudoujiasu6.com/">tudoujiasu5.com</a>需翻墙 </h2>
+  <h2>最新更新地址一：🚀 <a href="https://tudoujiasu7.com/">tudoujiasu7.com</a> </h2>
+  <h2>最新更新地址二：🚀 <a href="https://tudoujiasu6.com/">tudoujiasu6.com</a>需翻墙 </h2>
   <h2>最新更新地址三：🚀 <a href="https://tudoujiasu5.com/">tudoujiasu5.com</a>需翻墙 </h2>
   <h2>最新更新地址四：🚀 <a href="https://tudoujiasu3.com/">tudoujiasu3.com</a>需翻墙 </h2>
   <h2>最新更新地址五：🚀 <a href="https://tudoujiasu2.com/">tudoujiasu2.com</a> 需翻墙</h2>	
