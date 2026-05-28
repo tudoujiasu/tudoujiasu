@@ -33,18 +33,19 @@
 > 💡 **运维提示**：如果您的旧版本客户端出现**无法刷新线路**、或主界面显示**「暂无代理」**，是由旧内核不兼容最新安全协议引起的。**请务必先卸载手机或电脑上的旧 App，并点击下方最新入口重新安装**即可恢复。
 
 ### 🤖 Android / 鸿蒙系统（多架构专用包）
-* 📥 [👉 点此下载 安卓 arm64-v8a 核心安装包]([https://tkvip222.co](https://dow.tkvip222.com/Androidapp/apex/土豆加速-mobile-arm64-v8a.apk)m "点我下载V2ray")
-* 📥 [👉 点此下载 安卓 armeabi-v7a 核心安装包]([https://tkvip222.com](https://dow.tkvip222.com/Androidapp/apex/土豆加速-mobile-armeabi-v7a.apk) "点我下载V2ray")
-* 📥 [👉 点此下载 安卓模拟器 专用流畅版本]([https://tkvip222.com](https://dow.tkvip222.com/Androidapp/apex/土豆加速-mobile-emulator.apk) "点我下载V2ray")
-* 📥 [👉 点此下载 安卓官方全通用 稳定版本]([https://tkvip222.com](https://dow.tkvip222.com/Androidapp/apex/土豆加速-mobile-universal.apk) "点我下载V2ray")
+* 📥 [👉 点此下载 安卓 arm64-v8a 核心安装包](https://dow.tkvip222.com/Androidapp/apex/%E5%9C%9F%E8%B1%86%E5%8A%A0%E9%80%9F-mobile-arm64-v8a.apk "点我下载V2ray")
+* 📥 [👉 点此下载 安卓 armeabi-v7a 核心安装包](https://dow.tkvip222.com/Androidapp/apex/%E5%9C%9F%E8%B1%86%E5%8A%A0%E9%80%9F-mobile-armeabi-v7a.apk "点我下载V2ray")
+* 📥 [👉 点此下载 安卓模拟器 专用流畅版本](https://dow.tkvip222.com/Androidapp/apex/%E5%9C%9F%E8%B1%86%E5%8A%A0%E9%80%9F-mobile-emulator.apk "点我下载V2ray")
+* 📥 [👉 点此下载 安卓官方全通用 稳定版本](https://dow.tkvip222.com/Androidapp/apex/%E5%9C%9F%E8%B1%86%E5%8A%A0%E9%80%9F-mobile-universal.apk "点我下载V2ray")
 * ⚙️ **华为鸿蒙系统特别提醒**：安装前请先前往 **手机设置 ➔ 系统和更新 ➔ 关闭「纯净模式」**，否则系统可能会拦截安装。
 
 ### 🍏 iOS 苹果端系统
 * 🍏 [👉 点此下载 苹果客户端（即将上线 / 先使用小火箭）](https://tkvip111.com "点我下载V2ray")
 
 ### 💻 PC / Mac 桌面系统
-* 💻 [👉 点此下载 Windows 微软系统专用 X64 高速安装包]([https://tkvip222.com](https://dow.tkvip222.com/Windows/apex/土豆加速-3.4.1-windows-amd64-setup.exe) "点我下载V2ray")
-* 🖥 [👉 点此下载 macOS 苹果电脑 全通用内核 DMG 安装包]([https://tkvip222.com](https://dow.tkvip222.com/Mac/apex/土豆加速-3.4.1-macos-universal.dmg) "点我下载V2ray")
+* 💻 [👉 点此下载 Windows 微软系统专用 X64 高速安装包](https://dow.tkvip222.com/Windows/apex/%E5%9C%9F%E8%B1%86%E5%8A%A0%E9%80%9F-3.4.1-windows-amd64-setup.exe "点我下载V2ray")
+* 🖥 [👉 点此下载 macOS 苹果电脑 全通用内核 DMG 安装包](https://dow.tkvip222.com/Mac/apex/%E5%9C%9F%E8%B1%86%E5%8A%A0%E9%80%9F-3.4.1-macos-universal.dmg "点我下载V2ray")
+
 
 ---
 
